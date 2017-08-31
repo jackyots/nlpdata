@@ -1,0 +1,2 @@
+/usr/bin/ar qc /root/ltp/ltp/lib/libsegmentor.a  CMakeFiles/segmentor_static_lib.dir/segment_dll.cpp.o CMakeFiles/segmentor_static_lib.dir/decoder.cpp.o CMakeFiles/segmentor_static_lib.dir/preprocessor.cpp.o CMakeFiles/segmentor_static_lib.dir/model.cpp.o CMakeFiles/segmentor_static_lib.dir/extractor.cpp.o CMakeFiles/segmentor_static_lib.dir/segmentor.cpp.o
+/usr/bin/ranlib /root/ltp/ltp/lib/libsegmentor.a

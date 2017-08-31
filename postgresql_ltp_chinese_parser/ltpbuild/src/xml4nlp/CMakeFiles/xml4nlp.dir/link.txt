@@ -1,0 +1,2 @@
+/usr/bin/ar qc /root/ltp/ltp/lib/libxml4nlp.a  CMakeFiles/xml4nlp.dir/Xml4nlp.cpp.o
+/usr/bin/ranlib /root/ltp/ltp/lib/libxml4nlp.a

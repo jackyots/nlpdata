@@ -1,0 +1,1 @@
+/usr/bin/CC  -std=c++11 -fPIC -O3 -DNDEBUG   CMakeFiles/otpos.dir/otpos.cpp.o CMakeFiles/otpos.dir/postagger_frontend.cpp.o CMakeFiles/otpos.dir/io.cpp.o CMakeFiles/otpos.dir/decoder.cpp.o CMakeFiles/otpos.dir/extractor.cpp.o CMakeFiles/otpos.dir/postagger.cpp.o  -o /root/ltp/ltp/tools/train/otpos /root/ltp/ltp/lib/libboost_program_options.a 

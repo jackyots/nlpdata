@@ -1,0 +1,1 @@
+/usr/bin/CC -fPIC -std=c++11 -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libner.so.0.0.2 -o /root/ltp/ltp/lib/libner.so.0.0.2 CMakeFiles/ner_shared_lib.dir/ner_dll.cpp.o CMakeFiles/ner_shared_lib.dir/decoder.cpp.o CMakeFiles/ner_shared_lib.dir/extractor.cpp.o CMakeFiles/ner_shared_lib.dir/ner.cpp.o 

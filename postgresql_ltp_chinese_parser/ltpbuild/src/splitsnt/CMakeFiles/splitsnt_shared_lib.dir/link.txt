@@ -1,0 +1,1 @@
+/usr/bin/CC -fPIC -std=c++11 -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libsplitsnt.so.0.0.1 -o /root/ltp/ltp/lib/libsplitsnt.so.0.0.1 CMakeFiles/splitsnt_shared_lib.dir/SplitSentence.cpp.o 

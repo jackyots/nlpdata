@@ -1,0 +1,2 @@
+/usr/bin/ar qc /root/ltp/ltp/lib/libsrl.a  CMakeFiles/srl_static_lib.dir/DepSRL.cpp.o CMakeFiles/srl_static_lib.dir/SRL_DLL.cpp.o
+/usr/bin/ranlib /root/ltp/ltp/lib/libsrl.a

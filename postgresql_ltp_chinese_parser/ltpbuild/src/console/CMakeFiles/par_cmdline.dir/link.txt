@@ -1,0 +1,1 @@
+/usr/bin/CC  -std=c++11 -fPIC -O3 -DNDEBUG   CMakeFiles/par_cmdline.dir/par_cmdline.cpp.o CMakeFiles/par_cmdline.dir/__/__/thirdparty/tinythreadpp/tinythread.cpp.o  -o /root/ltp/ltp/bin/examples/par_cmdline  -L/root/ltp/ltp/lib -Wl,-rpath,/root/ltp/ltp/lib /root/ltp/ltp/lib/libparser.a /root/ltp/ltp/lib/libboost_program_options.a -lpthread 

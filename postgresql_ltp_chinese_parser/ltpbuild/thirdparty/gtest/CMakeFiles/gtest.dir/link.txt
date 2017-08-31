@@ -1,0 +1,2 @@
+/usr/bin/ar qc /root/ltp/ltp/lib/libgtest.a  CMakeFiles/gtest.dir/src/gtest-all.cc.o
+/usr/bin/ranlib /root/ltp/ltp/lib/libgtest.a

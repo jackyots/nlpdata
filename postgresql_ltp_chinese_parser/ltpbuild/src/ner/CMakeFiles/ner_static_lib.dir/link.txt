@@ -1,0 +1,2 @@
+/usr/bin/ar qc /root/ltp/ltp/lib/libner.a  CMakeFiles/ner_static_lib.dir/ner_dll.cpp.o CMakeFiles/ner_static_lib.dir/decoder.cpp.o CMakeFiles/ner_static_lib.dir/extractor.cpp.o CMakeFiles/ner_static_lib.dir/ner.cpp.o
+/usr/bin/ranlib /root/ltp/ltp/lib/libner.a

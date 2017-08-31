@@ -1,0 +1,1 @@
+/usr/bin/CC -fPIC -std=c++11 -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libpostagger.so.0.0.3 -o /root/ltp/ltp/lib/libpostagger.so.0.0.3 CMakeFiles/postagger_shared_lib.dir/postag_dll.cpp.o CMakeFiles/postagger_shared_lib.dir/decoder.cpp.o CMakeFiles/postagger_shared_lib.dir/extractor.cpp.o CMakeFiles/postagger_shared_lib.dir/postagger.cpp.o 

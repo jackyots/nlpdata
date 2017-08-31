@@ -1,0 +1,2 @@
+/usr/bin/ar qc /root/ltp/ltp/lib/libparser.a  CMakeFiles/parser_static_lib.dir/parser_dll.cpp.o CMakeFiles/parser_static_lib.dir/options.cpp.o CMakeFiles/parser_static_lib.dir/instance.cpp.o CMakeFiles/parser_static_lib.dir/system.cpp.o CMakeFiles/parser_static_lib.dir/classifier.cpp.o CMakeFiles/parser_static_lib.dir/parser.cpp.o
+/usr/bin/ranlib /root/ltp/ltp/lib/libparser.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc /root/ltp/ltp/lib/libltp.a  CMakeFiles/ltp.dir/Ltp.cpp.o CMakeFiles/ltp.dir/LTPResource.cpp.o
+/usr/bin/ranlib /root/ltp/ltp/lib/libltp.a

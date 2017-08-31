@@ -1,0 +1,2 @@
+/usr/bin/ar qc /root/ltp/ltp/lib/libpostagger.a  CMakeFiles/postagger_static_lib.dir/postag_dll.cpp.o CMakeFiles/postagger_static_lib.dir/decoder.cpp.o CMakeFiles/postagger_static_lib.dir/extractor.cpp.o CMakeFiles/postagger_static_lib.dir/postagger.cpp.o
+/usr/bin/ranlib /root/ltp/ltp/lib/libpostagger.a

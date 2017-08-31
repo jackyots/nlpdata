@@ -1,0 +1,2 @@
+/usr/bin/ar qc /root/ltp/ltp/lib/libcommon_static_lib.a  CMakeFiles/common_static_lib.dir/model/AffineTransformModelBuilder.cpp.o CMakeFiles/common_static_lib.dir/model/CNN1dLayerBuilder.cpp.o CMakeFiles/common_static_lib.dir/structure/SrlPiSample.cpp.o
+/usr/bin/ranlib /root/ltp/ltp/lib/libcommon_static_lib.a

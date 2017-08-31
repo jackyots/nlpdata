@@ -1,0 +1,1 @@
+/usr/bin/CC -fPIC -std=c++11 -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libbase_shared_lib.so -o /root/ltp/ltp/lib/libbase_shared_lib.so CMakeFiles/base_shared_lib.dir/base/config.cpp.o CMakeFiles/base_shared_lib.dir/base/debug.cpp.o /root/ltp/ltp/lib/libboost_program_options.a /root/ltp/ltp/lib/libboost_serialization.a 

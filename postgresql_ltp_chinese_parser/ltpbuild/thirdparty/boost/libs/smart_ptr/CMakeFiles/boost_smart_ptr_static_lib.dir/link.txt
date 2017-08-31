@@ -1,0 +1,2 @@
+/usr/bin/ar qc /root/ltp/ltp/lib/libboost_smart_ptr.a  CMakeFiles/boost_smart_ptr_static_lib.dir/src/sp_collector.cpp.o CMakeFiles/boost_smart_ptr_static_lib.dir/src/sp_debug_hooks.cpp.o
+/usr/bin/ranlib /root/ltp/ltp/lib/libboost_smart_ptr.a

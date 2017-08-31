@@ -1,0 +1,2 @@
+/usr/bin/ar qc /root/ltp/ltp/lib/libbase_static_lib.a  CMakeFiles/base_static_lib.dir/base/config.cpp.o CMakeFiles/base_static_lib.dir/base/debug.cpp.o
+/usr/bin/ranlib /root/ltp/ltp/lib/libbase_static_lib.a

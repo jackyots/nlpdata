@@ -1,0 +1,2 @@
+/usr/bin/ar qc /root/ltp/ltp/lib/libsplitsnt.a  CMakeFiles/splitsnt_static_lib.dir/SplitSentence.cpp.o
+/usr/bin/ranlib /root/ltp/ltp/lib/libsplitsnt.a

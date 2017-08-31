@@ -1,0 +1,1 @@
+/usr/bin/CC -fPIC -std=c++11 -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libboost_smart_ptr.so.1.61 -o /root/ltp/ltp/lib/libboost_smart_ptr.so.1.61 CMakeFiles/boost_smart_ptr_shared_lib.dir/src/sp_collector.cpp.o CMakeFiles/boost_smart_ptr_shared_lib.dir/src/sp_debug_hooks.cpp.o 

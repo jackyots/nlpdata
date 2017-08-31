@@ -1,0 +1,1 @@
+/usr/bin/CC  -std=c++11 -fPIC -O3 -DNDEBUG   CMakeFiles/cws_cmdline.dir/cws_cmdline.cpp.o CMakeFiles/cws_cmdline.dir/__/__/thirdparty/tinythreadpp/tinythread.cpp.o  -o /root/ltp/ltp/bin/examples/cws_cmdline  -L/root/ltp/ltp/lib -Wl,-rpath,/root/ltp/ltp/lib /root/ltp/ltp/lib/libsegmentor.a /root/ltp/ltp/lib/libboost_program_options.a /root/ltp/ltp/lib/libboost_regex.a -lpthread 

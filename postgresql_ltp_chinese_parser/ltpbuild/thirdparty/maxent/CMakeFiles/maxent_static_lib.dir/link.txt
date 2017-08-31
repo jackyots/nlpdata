@@ -1,0 +1,2 @@
+/usr/bin/ar qc /root/ltp/ltp/lib/libmaxent.a  CMakeFiles/maxent_static_lib.dir/maxent.cpp.o CMakeFiles/maxent_static_lib.dir/sgd.cpp.o CMakeFiles/maxent_static_lib.dir/owlqn.cpp.o CMakeFiles/maxent_static_lib.dir/lbfgs.cpp.o
+/usr/bin/ranlib /root/ltp/ltp/lib/libmaxent.a
